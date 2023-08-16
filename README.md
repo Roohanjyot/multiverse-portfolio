@@ -9,19 +9,19 @@ This repository is a collection of the work and learning that I've done througho
 
 ---
 
-## [Program Projects](https://github.com/roohanjyot/multiverse-portfolio)
+## [Program Projects](https://github.com/roohanjyot/tree/main/multiverse-portfolio/program-project)
 
 This section consists of a few projects I have worked on individually and collaboratively throughout the module during the apprenticeship. There is also a README that will provide further information about the projects.
 
 ---
 
-## [Personal Projects](https://github.com/roohanjyot/multiverse-portfolio)
+## [Personal Projects](https://github.com/roohanjyot/tree/main/multiverse-portfolio/personal-project)
 
 This section is a collection of a few projects I have worked on outside Amex and Multiverse. Thses projects were typically centered around furthering my skillset by learning a new technology, or reinforcing my knowledge of a technology.
 
 ---
 
-## [Professional Projects](https://github.com/roohanjyot/multiverse-portfolio)
+## [Professional Projects](https://github.com/roohanjyot/tree/main/multiverse-portfolio/professional-project)
 
 In this section, I will discuss my experience as a developer at Amex. It describes my responsibilites and accomplishments. Due to the sensitive nature of the Amex codebase, I will not share any code or internal logic.
 
